@@ -4,6 +4,8 @@ The solution for ultrawide and wider aspect ratios addresses the issue of the ve
 1. [Download the archive](/../../releases).
 2. Unpack the files to the \bin\ folder inside the game directory.
 
+To uninstall, simply remove or move the files.
+
 Tested on the latest Steam version at 2560x1080, 3840x1080, 5760x1080 and 11520x1080.
 
 You can buy me a [coffee](https://ko-fi.com/rozziroxx) or become a [patron](https://www.patreon.com/rozzi).
